@@ -11,7 +11,7 @@ Edit the HTML, CSS and JS as you need.
 
 Gere a imagem
 ```
-docker -t myimagename .
+docker build -t myimagename .
 ```
 
 Execute a imagem
